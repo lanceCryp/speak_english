@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /speak_english/A1_基础入门级/1_给出简单的回应.html
+      link: /A1_基础入门级/1_给出简单的回应
     - theme: alt
       text: 生词本
-      link: /speak_english/难点单词.html
+      link: /难点单词
 ---
 
 <div class="level-grid">
