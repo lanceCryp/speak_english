@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'Speak 英语学习笔记',
   description: '基于 CEFR 欧标等级的 Speak 英语口语学习笔记（A1-B2）',
-  base: '/',
+  base: '/speak_english/',
 
   markdown: {
     config: (md) => {
