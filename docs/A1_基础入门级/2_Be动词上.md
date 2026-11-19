@@ -9,8 +9,8 @@
     How's the weather in New York?
     How's the weather in San Francisco?
     It's windy.
-    It's chilly.
-    It's humid.
+    It's chilly/ˈtʃɪli/.
+    It's humid/ˈhjuːmɪd/.
     It's hot.
     It's humid and hot.
     It's hot and humid.
@@ -27,7 +27,7 @@
 
 # 寒暄一下
 ## 双语视频课
-    Can't complain.
+    Can't complain/kəmˈpleɪn/.
     Same old, same old.
     How's it going?
 ## 口语操练
@@ -43,7 +43,7 @@
     Hi, Lisa. How's it going?
 # 叙叙旧
 ## 视频课
-    Work is tough.
+    Work is tough/tʌf/.
     School is good.
     Yeah, how's life?
     Life is tough.
@@ -65,7 +65,7 @@
     How's life in London?
     How's life in Canada?
     How's your new job?
-    How's your new relationship?
+    How's your new relationship/rɪˈleɪʃ(ə)nʃɪp/?
     How's your new place?
     How's your new school?
     Hey, how's life?
