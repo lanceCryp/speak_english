@@ -304,7 +304,25 @@
 
 # 9. 技能测试
 
-- He's a student. He's hungry and stressed.
-- Weather life school sunny windy humid hungry bored
-- Stressed, hungry, cute, funny, awesome, walk, exciting, tough, good.
-- It's humid. I'm stressed. Work is exciting.
+- He's a student. 
+- He's hungry and stressed.
+- Weather
+- life
+- school
+- sunny
+- windy
+- humid
+- hungry
+- bored
+- Stressed
+- hungry
+- cute
+- funny
+- awesome
+- walk
+- exciting
+- tough
+- good.
+- It's humid. 
+- I'm stressed. 
+- Work is exciting.

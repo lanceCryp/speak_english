@@ -404,9 +404,25 @@
 # 10. 技能测试
 
 - My socks are under the couch.
-- Parents, siblings, grandparents.Coworkers friends cousins, under, on.
-- In, next to, phone, drink, wallet, season, song, show.
-- Actor, singer, teacher.
+- Parents
+- siblings
+- grandparents.
+- Coworkers 
+- friends 
+- cousins
+- under
+- on.
+- In
+- next to
+- phone
+- drink
+- wallet
+- season
+- song
+- show.
+- Actor
+- singer
+- teacher.
 - This is my older brother.
 - My drink is in the fridge.
 - What's your favorite ice cream flavor?
