@@ -71,6 +71,13 @@ hero:
     </div>
     <p class="lv-desc">更上一层楼：探索细微差异，提出解决方案，驾驭复杂情况。</p>
   </a>
+  <a class="level-card" href="/speak_english/C1_高级/1.FindingAMiddleGround.html">
+    <div class="level-card-top">
+      <span class="lv-badge lv-c1">C1</span>
+      <span class="lv-name">高级</span>
+    </div>
+    <p class="lv-desc">炉火纯青：谈判斡旋、给予反馈、化解分歧，灵活驾驭复杂话题。</p>
+  </a>
   <a class="level-card" href="/speak_english/O_B2_商务英语/1.职场术语精要.html">
     <div class="level-card-top">
       <span class="lv-badge lv-b2">B2</span>
