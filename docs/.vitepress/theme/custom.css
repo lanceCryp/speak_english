@@ -28,16 +28,42 @@
   padding-top: 0;
 }
 
-/* 首页课程等级卡片 */
-.level-grid {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
+/* 首页课程等级卡片：按 主线 / 拓展 / 其它 分组 */
+.level-group {
   width: min(1152px, calc(100vw - 48px));
+  margin: 0 auto;
+}
+
+.group-title {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 44px 0 16px;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.group-title::before {
+  content: "";
+  align-self: center;
+  width: 4px;
+  height: 18px;
+  border-radius: 2px;
+  background: var(--vp-c-brand-1);
+}
+
+.group-sub {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
+}
+
+.level-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
-  margin: 28px 0;
+  margin: 0 0 8px;
 }
 
 @media (max-width: 960px) {
