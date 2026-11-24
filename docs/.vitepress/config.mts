@@ -212,7 +212,29 @@ export default defineConfig({
           { text: 'B1 · 中级', link: '/分级阅读/B1_中级' },
           { text: 'B2 · 中高级', link: '/分级阅读/B2_中高级' },
           { text: 'C1 · 高级', link: '/分级阅读/C1_高级' },
-          { text: 'C2 · 精通级', link: '/分级阅读/C2_精通级' }
+          { text: 'C2 · 精通级', link: '/分级阅读/C2_精通级' },
+          { text: '完成情况统计', link: '/分级阅读/完成情况统计' },
+          { text: 'CEFR 覆盖率对比', link: '/分级阅读/CEFR覆盖率对比' },
+          { text: '多维覆盖率对比', link: '/分级阅读/多维覆盖率对比' }
+        ]
+      },
+      {
+        text: '分级阅读-new',
+        collapsed: false,
+        items: [
+          { text: '总体规划', link: '/分级阅读-new/00_总体规划' },
+          { text: 'A1 · 入门级（阅读）', link: '/分级阅读-new/A1_入门级' },
+          { text: 'A1 · 短语清单', link: '/分级阅读-new/A1_短语清单' },
+          { text: 'A2 · 初级（阅读）', link: '/分级阅读-new/A2_初级' },
+          { text: 'A2 · 短语清单', link: '/分级阅读-new/A2_短语清单' },
+          { text: 'B1 · 中级（阅读）', link: '/分级阅读-new/B1_中级' },
+          { text: 'B1 · 短语清单', link: '/分级阅读-new/B1_短语清单' },
+          { text: 'B2 · 中高级（阅读）', link: '/分级阅读-new/B2_中高级' },
+          { text: 'B2 · 短语清单', link: '/分级阅读-new/B2_短语清单' },
+          { text: 'C1 · 高级（阅读）', link: '/分级阅读-new/C1_高级' },
+          { text: 'C1 · 短语清单', link: '/分级阅读-new/C1_短语清单' },
+          { text: 'C2 · 精通级（阅读）', link: '/分级阅读-new/C2_精通级' },
+          { text: 'C2 · 短语清单', link: '/分级阅读-new/C2_短语清单' }
         ]
       },
       {
