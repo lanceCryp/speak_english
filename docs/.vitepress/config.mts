@@ -122,15 +122,45 @@ export default defineConfig({
         ]
       },
       {
-        text: 'B2 · 商务英语',
+        text: 'B2 · 中高级A',
         collapsed: true,
         items: [
-          { text: '1. 职场术语精要', link: '/B2_商务英语/1.职场术语精要' },
-          { text: '2. 会议', link: '/B2_商务英语/2.会议' },
-          { text: '3. 与同事协作', link: '/B2_商务英语/3.与同事协作' },
-          { text: '4. 讲演技巧', link: '/B2_商务英语/4.讲演技巧' },
-          { text: '5. 求职面试与社交', link: '/B2_商务英语/5.求职面试与社交' },
-          { text: '6. 办公室闲聊', link: '/B2_商务英语/6.办公室闲聊' }
+          { text: '1. Connecting With People', link: '/B2_中高级_A/1.ConnectingWithPeople' },
+          { text: '2. Interesting Hobbies', link: '/B2_中高级_A/2.InterestingHobbies' },
+          { text: '3. Travel Talk', link: '/B2_中高级_A/3.TravelTalk' },
+          { text: '4. Movies TV Beyond', link: '/B2_中高级_A/4.MoviesTVBeyond' }
+        ]
+      },
+      {
+        text: 'B2 · 中高级B',
+        collapsed: true,
+        items: [
+          { text: '1. Your Travel Style', link: '/B2_中高级_B/1.YourTravelStyle' },
+          { text: '2. Your Best Self', link: '/B2_中高级_B/2.YourBestSelf' },
+          { text: '3. Speaking Up at Work', link: '/B2_中高级_B/3.SpeakingUpatWork' },
+          { text: '4. Exploring New Endeavors', link: '/B2_中高级_B/4.ExploringNewEndeavors' }
+        ]
+      },
+      {
+        text: 'C1 · 高级',
+        collapsed: true,
+        items: [
+          { text: '1. Finding a Middle Ground', link: '/C1_高级/1.FindingAMiddleGround' },
+          { text: '2. Negotiating', link: '/C1_高级/2.Negotiating' },
+          { text: '3. Giving Constructive Feedback', link: '/C1_高级/3.GivingConstructiveFeedback' },
+          { text: '4. Making Amends', link: '/C1_高级/4.MakingAmends' }
+        ]
+      },
+      {
+        text: '商务英语 · B2',
+        collapsed: true,
+        items: [
+          { text: '1. 职场术语精要', link: '/O_B2_商务英语/1.职场术语精要' },
+          { text: '2. 会议', link: '/O_B2_商务英语/2.会议' },
+          { text: '3. 与同事协作', link: '/O_B2_商务英语/3.与同事协作' },
+          { text: '4. 讲演技巧', link: '/O_B2_商务英语/4.讲演技巧' },
+          { text: '5. 求职面试与社交', link: '/O_B2_商务英语/5.求职面试与社交' },
+          { text: '6. 办公室闲聊', link: '/O_B2_商务英语/6.办公室闲聊' }
         ]
       },
       {
@@ -171,6 +201,13 @@ export default defineConfig({
           { text: '2. 与同学合作', link: '/O_B2_校园英语B/2.与同学合作' },
           { text: '3. 汇报演讲', link: '/O_B2_校园英语B/3.汇报演讲' },
           { text: '4. 新学期', link: '/O_B2_校园英语B/4.新学期' }
+        ]
+      },
+      {
+        text: 'CEFR 分级',
+        collapsed: false,
+        items: [
+          { text: 'CEFR 分级说明', link: '/CEFR分级' }
         ]
       },
       {

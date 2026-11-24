@@ -57,7 +57,21 @@ hero:
     </div>
     <p class="lv-desc">展开更深入的话题：回顾遗憾，分享回忆和阐明价值观。</p>
   </a>
-  <a class="level-card" href="/speak_english/B2_商务英语/1.职场术语精要.html">
+  <a class="level-card" href="/speak_english/B2_中高级_A/1.ConnectingWithPeople.html">
+    <div class="level-card-top">
+      <span class="lv-badge lv-b1">B2</span>
+      <span class="lv-name">中高级一</span>
+    </div>
+    <p class="lv-desc">深入探讨：像母语者一样自信地表达观点，比较优缺点，轻松展开辩论。</p>
+  </a>
+  <a class="level-card" href="/speak_english/B2_中高级_B/1.YourTravelStyle.html">
+    <div class="level-card-top">
+      <span class="lv-badge lv-b1">B2</span>
+      <span class="lv-name">中高级二</span>
+    </div>
+    <p class="lv-desc">更上一层楼：探索细微差异，提出解决方案，驾驭复杂情况。</p>
+  </a>
+  <a class="level-card" href="/speak_english/O_B2_商务英语/1.职场术语精要.html">
     <div class="level-card-top">
       <span class="lv-badge lv-b2">B2</span>
       <span class="lv-name">商务英语</span>
