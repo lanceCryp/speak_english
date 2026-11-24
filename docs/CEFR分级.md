@@ -46,9 +46,34 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能写简单的自我介绍、短句留言、购物清单。
 - 能写出由简单句型构成的几句话，如描述自己的房间、家庭、爱好。
 
-### 词汇量与语法
-- **词汇量参考**：约 500 词，以高频生活词汇为主（家庭、食物、数字、颜色、时间、常用动词等）。
-- **核心语法**：be 动词、一般现在时、人称代词、物主代词、名词单复数、指示代词、there is/are、情态动词 can、基本疑问句、简单祈使句、基础介词（in/on/at 表地点时间）。
+### 词汇、语法与短语
+
+**词汇量参考**：约 500 词，以高频生活词汇为主（家庭、食物、数字、颜色、时间、常用动词等）。
+
+**核心语法（附例句）**
+- be 动词：`I am a student.`（我是学生）
+- 一般现在时（含第三人称单数）：`She lives in Beijing.`（她住在北京）
+- 人称代词与物主代词：`I / my`、`you / your`、`he / his`、`she / her`
+- 名词单复数：`one book → two books`（规则变化）
+- 指示代词：`this / that / these / those`
+- there is / there are：`There is a park near my home.`（我家附近有个公园）
+- 情态动词 can：`I can speak a little English.`（我会说一点英语）
+- 基本疑问句：`What / Where / How ...?`
+- 简单祈使句：`Sit down, please.`（请坐）
+- 基础介词（in / on / at 表地点、时间）：`in the box` / `on the table` / `at 8 o'clock`
+
+**高频短语与搭配**
+- 问候与告别：`Good morning.` / `See you later.`（再见）
+- 自我介绍：`My name is ...` / `Nice to meet you.`（很高兴认识你）
+- 表达数字与时间：`What time is it?` / `It's half past three.`（三点半）
+- 表达拥有：`I have a ...` / `This is my ...`
+- 表达喜好：`I like coffee.` / `I don't like tea.`
+
+**功能句型（核心交际能力）**
+- 问候：`Hello! How are you?` / `I'm fine, thank you.`
+- 介绍：`This is my friend Tom.`
+- 请求重复或帮助：`Can you say that again, please?` / `Sorry, I don't understand.`
+- 道谢与道歉：`Thank you very much.` / `I'm sorry.`
 
 ### 考试对标
 - 雅思约 1.0–2.5 分；托福约 0–30 分；剑桥少儿英语（Starters/Movers 阶段）。
@@ -84,9 +109,35 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能就熟悉话题写简短、连贯的段落，描述日常活动和个人经历。
 - 能简单描述过去发生的事和个人计划。
 
-### 词汇量与语法
-- **词汇量参考**：约 1,000–1,500 词，扩展到购物、旅行、餐饮、工作等生活领域。
-- **核心语法**：一般过去时、过去进行时（基础）、将来时（will / be going to）、情态动词（can / could / must / should / have to）、比较级与最高级、现在完成时（基础）、不定式与动名词（基础）、频率副词、反身代词、量词（some / any / much / many）。
+### 词汇、语法与短语
+
+**词汇量参考**：约 1,000–1,500 词，扩展到购物、旅行、餐饮、工作等生活领域。
+
+**核心语法（附例句）**
+- 一般过去时：`I went to the beach last week.`（上周我去了海边）
+- 过去进行时（基础）：`I was watching TV at 8 p.m.`（昨晚八点我在看电视）
+- 将来时 will / be going to：`I will call you tomorrow.` / `I'm going to visit my grandparents.`
+- 情态动词：`Can I ...?`（请求许可）/ `You should rest.`（建议）/ `I have to go now.`（义务）
+- 比较级与最高级：`This is bigger than that.` / `It's the best movie ever.`
+- 现在完成时（基础）：`I have been to Paris.`（我去过巴黎）
+- 不定式与动名词（基础）：`I want to go.` / `I enjoy reading.`
+- 频率副词：`always / usually / often / sometimes / never`
+- 反身代词：`myself / yourself / himself / herself`
+- 量词：`some / any / much / many / a lot of`
+
+**高频短语与搭配**
+- 购物：`How much is it?` / `I'd like to buy ...`
+- 问路：`Excuse me, how can I get to ...?` / `Turn left / right.`
+- 餐厅：`Could I have the menu, please?` / `I'd like to order ...`
+- 时间与日程：`at the weekend` / `next week` / `last month`
+- 表达意见：`I think ...` / `In my opinion ...`
+
+**功能句型（核心交际能力）**
+- 点餐：`I'd like a cup of coffee, please.`
+- 购物询价：`How much is this T-shirt?`
+- 问路指路：`Go straight, then turn right.`
+- 描述经历：`Last year I traveled to Japan.`
+- 谈论计划：`I'm going to see a movie this weekend.`
 
 ### 考试对标
 - 雅思约 3.0 分；托福约 31–41 分；剑桥 KET（Key English Test）；国内约小学毕业～初中低年级。
@@ -122,9 +173,35 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能写描述经历、感受和印象的个人信件。
 - 能就某个观点给出理由，能写结构基本清晰的小短文（如邮件、日记、读后感）。
 
-### 词汇量与语法
-- **词汇量参考**：约 2,000–3,000 词，覆盖日常、工作、学校、社会话题。
-- **核心语法**：现在完成时（for / since / already / yet）、过去完成时（入门）、被动语态（基础）、第二条件句、虚拟语气（wish / if only）、关系从句（限制性）、间接引语（转述）、used to（过去习惯）、情态动词（might / may / must have done 基础）、连接词（although / however / because / so）。
+### 词汇、语法与短语
+
+**词汇量参考**：约 2,000–3,000 词，覆盖日常、工作、学校、社会话题。
+
+**核心语法（附例句）**
+- 现在完成时（for / since / already / yet）：`I have lived here for five years.`（我住这里五年了）
+- 过去完成时（入门）：`When I arrived, the movie had already started.`（我到时电影已开演）
+- 被动语态（基础）：`The book was written in 1990.`（这本书写于 1990 年）
+- 第二条件句：`If I were you, I would take the job.`（如果我是你，我会接受这份工作）
+- 虚拟语气（wish / if only）：`I wish I could speak French.`（但愿我会说法语）
+- 关系从句（限制性）：`The man who lives next door is a doctor.`
+- 间接引语（转述）：`He said he was tired.`（他说他累了）
+- used to（过去习惯）：`I used to play basketball.`（我过去常打篮球）
+- 情态动词（might / may / must have done 基础）：`He might be late.`（他可能迟到）
+- 连接词：`although / however / because / so`
+
+**高频短语与搭配**
+- 表达观点：`In my opinion ...` / `From my point of view ...`
+- 提出建议：`Why don't you ...?` / `You'd better ...` / `How about ...?`
+- 表达同意/不同意：`I agree with you.` / `I'm afraid I disagree.`
+- 表达感受：`I'm looking forward to ...`（期待）/ `I can't stand ...`（无法忍受）
+- 描述经历：`It was the first time I had ...`
+
+**功能句型（核心交际能力）**
+- 提建议：`If I were you, I would ...`
+- 表达遗憾：`I wish I had studied harder.`
+- 讲述经历：`I have been to many countries.`
+- 讨论观点：`I think it's a good idea because ...`
+- 描述习惯：`I used to get up early.`
 
 ### 考试对标
 - 雅思约 4.0–5.0 分；托福约 42–71 分；剑桥 PET（Preliminary English Test）；国内约初中高年级～高中低年级。
@@ -160,9 +237,35 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能写表达私人信件，强调事件和经历的意义，表达情感和观点。
 - 能写议论文，比较不同选择的优缺点，逻辑清晰、论据充分。
 
-### 词汇量与语法
-- **词汇量参考**：约 3,000–4,000 词（主动），被动可达 6,000 词，覆盖抽象、社会、学术话题。
-- **核心语法**：过去完成时、将来完成时、第三条件句、混合条件句、被动语态全系、分词短语作状语、非限制性定语从句、情态动词 + have done（推测过去）、wish + 过去完成、部分倒装、语体正式/非正式切换。
+### 词汇、语法与短语
+
+**词汇量参考**：约 3,000–4,000 词（主动），被动可达 6,000 词，覆盖抽象、社会、学术话题。
+
+**核心语法（附例句）**
+- 过去完成时：`By the time I arrived, they had left.`（我到时他们已经走了）
+- 将来完成时：`I will have finished the report by Friday.`（周五前我会完成报告）
+- 第三条件句：`If I had known, I would have told you.`（早知道我就告诉你了）
+- 混合条件句：`If I had studied, I would be a doctor now.`
+- 被动语态全系：`The building is being renovated.`（大楼正在翻修）
+- 分词短语作状语：`Having finished the work, he went home.`
+- 非限制性定语从句：`My sister, who lives in London, is a lawyer.`
+- 情态动词 + have done（推测过去）：`He must have missed the train.`（他一定误了火车）
+- wish + 过去完成：`I wish I had told the truth.`（但愿我当时说了实话）
+- 部分倒装：`Never have I seen such a thing.`（我从未见过这种事）
+
+**高频短语与搭配**
+- 论证观点：`On the one hand ... on the other hand ...` / `It is widely believed that ...`
+- 比较利弊：`The advantages outweigh the disadvantages.`
+- 表达让步：`Even though ...` / `Despite the fact that ...`
+- 表达推测：`It's likely that ...` / `There's a good chance that ...`
+- 正式表达：`I would appreciate it if ...` / `I am writing to inquire about ...`
+
+**功能句型（核心交际能力）**
+- 论证与反驳：`That's a valid point, but ...`
+- 表达假设：`Supposing you won the lottery, what would you do?`
+- 分析利弊：`One advantage is that ...; however ...`
+- 委婉表达：`I'm afraid I have to disagree.`
+- 总结观点：`To sum up, ...` / `All in all, ...`
 
 ### 考试对标
 - 雅思约 5.5–6.5 分；托福约 72–94 分；剑桥 FCE（First Certificate in English）；国内约高考优秀～大学英语四级（CET-4）。
@@ -198,9 +301,31 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能写专业报告、学术论文、商务信函，灵活把握正式程度和文体。
 - 能写论证充分、逻辑严密、语言精准多样的文章。
 
-### 词汇量与语法
-- **词汇量参考**：约 8,000 词以上，含大量学术词汇（AWL）、抽象概念词、习语和地道搭配。
-- **核心语法**：倒装句（否定词/only 置于句首等）、强调句（it is…that / what…is）、虚拟语气高级用法、名词化（nominalization）、复杂从句嵌套、分词独立结构、语篇衔接与逻辑标记的精细运用、语体（register）灵活切换。
+### 词汇、语法与短语
+
+**词汇量参考**：约 8,000 词以上，含大量学术词汇（AWL）、抽象概念词、习语和地道搭配。
+
+**核心语法（附例句）**
+- 倒装句（否定词/only 置句首）：`Not only did he win, but he also broke the record.` / `Only then did I realize my mistake.`
+- 强调句（it is…that / what…is）：`It was John who broke the window.` / `What I need is more time.`
+- 虚拟语气高级用法（虚拟式）：`It is essential that he be on time.`
+- 名词化（nominalization）：`the implementation of the policy`（替代 implement the policy）
+- 复杂从句嵌套：`What surprised me was that he refused.`
+- 分词独立结构：`The meeting being over, we all left.`
+- 语篇衔接与逻辑标记：`Furthermore / Nevertheless / Consequently / In contrast`
+- 语体（register）灵活切换：正式 vs 非正式、书面 vs 口语
+
+**高频短语与搭配**
+- 学术衔接词：`Moreover / Nevertheless / On the contrary / In light of`
+- 高级搭配：`play a crucial role in`（起关键作用）/ `give rise to`（引起）/ `draw a conclusion`（得出结论）
+- 习语：`a double-edged sword`（双刃剑）/ `the tip of the iceberg`（冰山一角）/ `to put it mildly`（说得委婉些）
+- 精准限定：`to some extent` / `in a sense` / `broadly speaking`
+
+**功能句型（核心交际能力）**
+- 复杂论证：`It can be argued that ...` / `This raises the question of whether ...`
+- 表达细微差别：`To a certain extent ...` / `Having said that ...`
+- 概括与转述：`In a nutshell, ...` / `To put it another way, ...`
+- 礼貌反驳：`I see your point, but ...` / `That's not necessarily the case.`
 
 ### 考试对标
 - 雅思约 7.0–8.0 分；托福约 95–120 分；剑桥 CAE（Certificate in Advanced English）；国内约大学英语六级（CET-6）优秀～考研英语高分。
@@ -236,9 +361,22 @@ CEFR（Common European Framework of Reference for Languages，欧洲语言共同
 - 能写专业或学术类文本，逻辑严密、措辞精准、衔接自然。
 - 能根据读者和目的灵活调整文体与语域，写出高度精炼、富有说服力的文章。
 
-### 词汇量与语法
-- **词汇量参考**：约 16,000 词以上，接近受过良好教育的母语者的词汇量。
-- **核心语法**：全部语法点精熟且能自动运用，能区分并主动使用最细微的语义和语体差别，能驾驭高度复杂、多层次的语篇结构。
+### 词汇、语法与短语
+
+**词汇量参考**：约 16,000 词以上，接近受过良好教育的母语者的词汇量。
+
+**核心语法**：全部语法点精熟且能自动运用，能区分并主动使用最细微的语义和语体差别，能驾驭高度复杂、多层次的语篇结构。此阶段不再「学习新语法」，而是将 A1–C1 的所有语法内化为无意识、精确的语用能力。
+
+**高频短语与搭配**
+- 广泛习语、俚语与谚语：`bite the bullet`（硬着头皮）/ `cut corners`（走捷径）/ `once in a blue moon`（千载难逢）
+- 修辞手段：隐喻、讽刺、双关、含蓄陈述（understatement）
+- 极正式的书面表达与高度口语化的俚语之间自如切换
+- 精微的语用策略：缓和语气（hedging）、迂回表达（circumlocution）
+
+**功能句型（核心交际能力）**
+- 精微语义区分与迂回表达：在卡词时用替代说法让对方毫无察觉
+- 高难度说服、论证、幽默与反讽的自然运用
+- 根据读者与目的灵活调整文体、语域与语气，达到接近受过教育母语者的表达水准
 
 ### 考试对标
 - 雅思约 8.5–9.0 分；托福约 120 分；剑桥 CPE（Certificate of Proficiency in English）；国内约英语专业八级（TEM-8）优秀～母语者水平。
