@@ -153,6 +153,13 @@ hero:
       </div>
       <p class="lv-desc">欧标 A1–C2 各级能力对照、词汇量与考试对标</p>
     </a>
+    <a class="level-card" href="/speak_english/分级阅读/A1_入门级.html">
+      <div class="level-card-top">
+        <span class="lv-badge lv-vocab">阅读</span>
+        <span class="lv-name">分级阅读</span>
+      </div>
+      <p class="lv-desc">A1–C2 分级可背诵短文，中英对照 · 重点词汇</p>
+    </a>
   </div>
 </div>
 

@@ -204,6 +204,18 @@ export default defineConfig({
         ]
       },
       {
+        text: '分级阅读',
+        collapsed: true,
+        items: [
+          { text: 'A1 · 入门级', link: '/分级阅读/A1_入门级' },
+          { text: 'A2 · 初级', link: '/分级阅读/A2_初级' },
+          { text: 'B1 · 中级', link: '/分级阅读/B1_中级' },
+          { text: 'B2 · 中高级', link: '/分级阅读/B2_中高级' },
+          { text: 'C1 · 高级', link: '/分级阅读/C1_高级' },
+          { text: 'C2 · 精通级', link: '/分级阅读/C2_精通级' }
+        ]
+      },
+      {
         text: 'CEFR 分级',
         collapsed: false,
         items: [
