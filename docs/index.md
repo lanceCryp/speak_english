@@ -15,7 +15,7 @@ hero:
 ---
 
 <div class="level-group">
-  <h2 class="group-title">主线课程<span class="group-sub">A1 → C1 · 循序进阶</span></h2>
+  <h2 class="group-title">A 级<span class="group-sub">A1 → A2 · 基础</span></h2>
   <div class="level-grid">
     <a class="level-card" href="/speak_english/A1_基础入门级/1_给出简单的回应.html">
       <div class="level-card-top">
@@ -38,6 +38,12 @@ hero:
       </div>
       <p class="lv-desc">驾驭常见语境：在用餐、购物和制定计划时，流畅表达。</p>
     </a>
+  </div>
+</div>
+
+<div class="level-group">
+  <h2 class="group-title">B 级<span class="group-sub">B1 → B2 · 中级</span></h2>
+  <div class="level-grid">
     <a class="level-card" href="/speak_english/B1_中级A/1_考虑各种选择.html">
       <div class="level-card-top">
         <span class="lv-badge lv-b1">B1</span>
@@ -73,6 +79,12 @@ hero:
       </div>
       <p class="lv-desc">更上一层楼：探索细微差异，提出解决方案，驾驭复杂情况。</p>
     </a>
+  </div>
+</div>
+
+<div class="level-group">
+  <h2 class="group-title">C 级<span class="group-sub">C1 · 高级</span></h2>
+  <div class="level-grid">
     <a class="level-card" href="/speak_english/C1_高级/1.FindingAMiddleGround.html">
       <div class="level-card-top">
         <span class="lv-badge lv-c1">C1</span>
