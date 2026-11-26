@@ -160,6 +160,13 @@ hero:
       </div>
       <p class="lv-desc">A1–C2 分级可背诵短文，中英对照 · 重点词汇</p>
     </a>
+    <a class="level-card" href="/speak_english/EnglishVocabularyInUse/1_Elementary/01_The%20Family.html">
+      <div class="level-card-top">
+        <span class="lv-badge lv-vocab">词汇</span>
+        <span class="lv-name">词汇在用</span>
+      </div>
+      <p class="lv-desc">剑桥词汇在用教材：按主题分单元系统积累词汇</p>
+    </a>
   </div>
 </div>
 

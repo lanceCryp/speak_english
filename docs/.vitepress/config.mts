@@ -238,6 +238,19 @@ export default defineConfig({
         ]
       },
       {
+        text: '词汇在用 · Vocabulary in Use',
+        collapsed: false,
+        items: [
+          {
+            text: '1. 初级 Elementary',
+            collapsed: false,
+            items: [
+              { text: '01 · The Family（家庭）', link: '/EnglishVocabularyInUse/1_Elementary/01_The Family' }
+            ]
+          }
+        ]
+      },
+      {
         text: 'CEFR 分级',
         collapsed: false,
         items: [
