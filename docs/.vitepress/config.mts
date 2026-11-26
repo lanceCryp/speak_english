@@ -238,16 +238,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '词汇在用 · Vocabulary in Use',
+        text: '新概念英语',
         collapsed: false,
         items: [
-          {
-            text: '1. 初级 Elementary',
-            collapsed: false,
-            items: [
-              { text: '01 · The Family（家庭）', link: '/EnglishVocabularyInUse/1_Elementary/01_The Family' }
-            ]
-          }
+          { text: '第二册 · Practice and Progress', link: '/新概念第二册' }
         ]
       },
       {
