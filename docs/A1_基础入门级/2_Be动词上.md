@@ -92,8 +92,8 @@
 - Work is good.
 - Life is fun.
 - School is good.
-- Work is frustrating.
-- Business is tough.
+- Work is frustrating(令人沮丧的).
+- Business is tough/tʌf/.
 - School is okay.
 - Business is OK.
 - School is frustrating.
@@ -184,7 +184,7 @@
 - I'm German.
 - I'm not Canadian.
 - She's not Taiwanese.
-- He is Vietnamese.
+- He is Vietnamese/ˌviːetnəˈmiːz/.
 - She's Japanese.
 - He's not Chinese.
 - He's not Japanese.

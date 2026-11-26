@@ -133,7 +133,7 @@
 - This is his cousin.
 - This is her uncle.
 - This is Diana's husband.
-- This is an Alex's fiancé.
+- This is an Alex's fiancé/ˌfiːɑːnˈseɪ/.
 - These are Taylor's siblings.
 - This is John's wife.
 - These are Alex's coworkers.
@@ -345,7 +345,7 @@
 
 - What's your favorite season?
 - Who's your favorite singer?
-- What's your favorite ice cream flavor?
+- What's your favorite ice cream flavor/ˈfleɪvər/?
 - Who's your favorite actor?
 - What's your favorite food?
 - Who's your favorite athlete?
